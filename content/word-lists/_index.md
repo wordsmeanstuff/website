@@ -7,7 +7,7 @@ outputs:
     - json
 ---
 
-# Language recommendation lists 
+# Language Recommendation Lists 
 
 The Inclusive Naming Initiative produces three tiers of language recommendation. These are compiled into lists for easy consumption by adopters. Terms are separated into lists based on the severity of the term in question as well as the level of review the terms have received.
 
@@ -44,12 +44,12 @@ Terms included in this list have one or all of the following:
 - Research conducted by the Inclusive Naming Initiative on the etymology of the word and non-tech cultural connotations, per the [Language Evaluation Framework](https://inclusivenaming.org/language/evaluation-framework/)
 - A consensus-based replacement term or terms proposed by the Language Workstream and sent for approval and review to the larger Initiative.
 
-## [No-Change](/word-lists/no-change/)
+## [No Change](/word-lists/no-change/)
 
 This word list captures terms the Inclusive Naming Initiative and its partner organizations evaluated but did not recommend any changes for. 
 
 
-## JSON Formmated list
+## JSON Formatted List
 
 The complete wordlist can be accessed in a single [JSON file](/word-lists/index.json), formatted as follows:
 
